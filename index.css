@@ -1,0 +1,17 @@
+body{
+    background-image: url(./public/Main.jpg);
+    min-width: 1240px;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.background{
+    position: absolute;
+    width: 1120px;
+    height: 860px;
+    background-color: rgba(112, 112, 112, 0.8);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+   
+}
